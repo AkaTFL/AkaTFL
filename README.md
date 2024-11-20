@@ -23,6 +23,6 @@ Mes passions en émojis:
 
   - **Stack** : PHP, HTML, CSS, C++ (pour la programmation de la balance, d'une scanette, et d'un barrière automatisée avec des capteurs infrarouge)
 
-  - Pour plus d'infos sur ce projet, et ma participation à celui-ci : [Rapport de projet, avec tout le code]()
+  - Pour plus d'infos sur ce projet, et ma participation à celui-ci : [Rapport de projet + tout le code]()
   
 
