@@ -9,7 +9,7 @@ Voici quelques lignes afin de me présenter:
   - :mortar_board: Détenteur d'un BTS SNIR
   
   
-  ### Mes passions en émojis:
+Mes passions en émojis:
 
   **:bicyclist: , :car: , :video_game:,:headphones: ,(Mais aussi et surtout le sport en général 😄)**
 
