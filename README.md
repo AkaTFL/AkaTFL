@@ -13,8 +13,9 @@ Voici quelques lignes afin de me présenter:
 
   **:bicyclist: , :car: , :video_game:,:headphones: ,(Mais aussi et surtout le sport en général 😄)**
 
+
   
-## Voici quelques projets sur lesquels j'ai pu travaillé 
+## Voici quelques projets sur lesquels j'ai pu travaillés
 
   
 
