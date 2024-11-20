@@ -11,7 +11,7 @@ Voici quelques lignes afin de me présenter une peu plus pleinement:
   
   ### Mes passions en émojis:
 
-  ** :bicyclist: , :car: , :video_game:,:headphones: ,(Mais aussi et surtout le sport en général 😄) **
+  **:bicyclist: , :car: , :video_game:,:headphones: ,(Mais aussi et surtout le sport en général 😄)**
 
   
 
