@@ -28,6 +28,6 @@ Voici quelques lignes afin de me présenter:
 
 - Le but de ce projet était de créer une page de widgets, tel que la date, la blague du jour, la recette du jour (avec la possibilité de voir les ingrédients associés), ainsi qu'une page permettant de créer, modifier et télécharger des fichiers MarkDown
 
-- **Stack** : React, HTMl, CSS
+- **Stack** : React, HTML, CSS
 
 - Pour voir le code source du projet, [clickez ici ! :)]()
