@@ -15,7 +15,7 @@ Voici quelques lignes afin de me présenter:
 
 
   
-## Voici quelques projets sur lesquels j'ai pu travaillés
+## Voici quelques projets sur lesquels j'ai pu travailler
 
 ### Projet de système de pesée de Camions :
 
