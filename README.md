@@ -26,3 +26,8 @@ Mes passions en émojis:
 
 ### Projet de Widget et de fichiers MarkDown :
 
+- Le but de ce projet était de créer une page de widgets, tel que la date, la blague du jour, la recette du jour (avec la possibilité de voir les ingrédients associés), ainsi qu'une page permettant de créer, modifier et télécharger des fichiers MarkDown
+
+- **Stack** : React, HTMl, CSS
+
+- Pour voir le code source du projet, [clickez ici ! :)]()
