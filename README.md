@@ -31,3 +31,6 @@ Voici quelques lignes afin de me présenter:
 - **Stack** : React, HTML, CSS
 
 - Pour voir le code source du projet, [clickez ici ! :)](https://github.com/AkaTFL/MarkDownEditor)
+
+
+N'hésitez pas à regarder les différents projets épinglé (j'ai participé à chacun d'eux)
