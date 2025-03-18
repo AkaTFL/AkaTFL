@@ -33,4 +33,4 @@ Voici quelques lignes afin de me présenter:
 - Pour voir le code source du projet, [clickez ici ! :)](https://github.com/AkaTFL/MarkDownEditor)
 
 
-N'hésitez pas à regarder les différents projets épinglé (j'ai travaillé sur chacun d'eux)
+N'hésitez pas à regarder les projets sur lesquels j'ai travaillé
